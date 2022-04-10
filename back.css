@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://wallpapercave.com/wp/wp2832043.jpg);
+  /* height:100%; */
+  /* background-position: center; */
+  /* background-repeat: no-repeat;
+    background-size: cover; */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.chand>input {
+  background-size: small;
+}
+
+.chand>input#gopal {
+  margin-left: 0;
+  padding: 0;
+}
